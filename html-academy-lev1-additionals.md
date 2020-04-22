@@ -1,12 +1,12 @@
 ### Как работают сайты на самом деле:
-* [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habrahabr.ru/company/htmlacademy/blog/254825/)
-* [HTML5Rocks: принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
-* [Комикс «как работает DNS»](https://howdns.works/ep1/)
+* Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com - https://habrahabr.ru/company/htmlacademy/blog/254825/
+* HTML5Rocks: принципы работы современных веб-браузеров - https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/
+* Комикс «как работает DNS» - https://howdns.works/ep1/
 
 ### Работа с веб-шрифтами:
-* [Подключение нестандартных шрифтов. Часть первая](https://fontstorage.com/blog/about-font-face-part-one/)
-* [Подключение нестандартных шрифтов. Часть вторая](https://fontstorage.com/blog/about-font-face-part-two/)
-* [Оптимизация шрифтов](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
+* Подключение нестандартных шрифтов. Часть первая - https://fontstorage.com/blog/about-font-face-part-one/
+* Подключение нестандартных шрифтов. Часть вторая - https://fontstorage.com/blog/about-font-face-part-two/
+* Оптимизация шрифтов - https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru
 
 ### Полезные материалы по работе с Git:
 * Процесс работы с GitHub через GitHub Desktop. - https://htmlacademy.ru/blog/85-register-on-github-work-with-github-desktop
@@ -15,30 +15,7 @@
 * Коллекция часто задаваемых вопросов. - http://firstaidgit.ru/#/
 * Как оформлять коммиты, чтобы потом не было больно. - https://habrahabr.ru/company/Voximplant/blog/276695/
 
-### О разметке:
-* Спецификация HTML - https://www.w3.org/TR/html/
-* Спецификация HTML, перевод - http://spec.piraruco.com/html5/index.htm
-* Зачем нужны заголовки. - https://htmlacademy.ru/shorts/7
-* Секции в футере. - https://htmlacademy.ru/shorts/3
-* Ссылки вокруг блоков. - https://htmlacademy.ru/shorts/1
-* W3C или WHATWG. - https://htmlacademy.ru/shorts/11
-* Обсуждения о правильном использовании тегов в комментариях. - http://html5doctor.com/computer-says-no-to-html5-document-outline/
-* Видеозапись доклада «Семантика или смерть». - https://events.yandex.ru/lib/talks/1520/
-* Слова, часто используемые в CSS-классах. - https://github.com/yoksel/common-words
-* Как отличить контентное изображение от декоративного. - https://htmlacademy.ru/blog/153-content-or-decor-img
-
-### Статьи о стилях кодирования:
-* Ставить или не ставить закрывающий слеш в одиночных тегах. - http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html
-* Кодгайд: почему, зачем и как? - https://htmlacademy.ru/blog/62-codeguide-why-what-and-how
-
-### Список кодгайдов:
-* Стиль кода Академии HTML. - http://codeguide.academy/html-css.html
-* Code Guide by @mdo. - http://codeguide.co/
-* Google HTML/CSS Style Guide (перевод). - https://google.github.io/styleguide/htmlcssguide.html
-
-
-## Работа с макетами
-### Статьи 
+### Работа с макетами
 * Фотошоп для верстальщика. - https://htmlacademy.ru/blog/51-photoshop-for-the-coders
 * Альтернативный текст для изображений. - Альтернативный текст для изображений.
 * О чём должен помнить веб-дизайнер. - https://github.com/nicothin/web-design
@@ -62,8 +39,29 @@
 * Программы:
   * ImageOptim для macOS. - https://imageoptim.com/mac
   * FileOptimizer для Windows. - https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer
-  
-## Статьи о доступности:
+
+# О разметке:
+* Спецификация HTML - https://www.w3.org/TR/html/
+* Спецификация HTML, перевод - http://spec.piraruco.com/html5/index.htm
+* Зачем нужны заголовки. - https://htmlacademy.ru/shorts/7
+* Секции в футере. - https://htmlacademy.ru/shorts/3
+* Ссылки вокруг блоков. - https://htmlacademy.ru/shorts/1
+* W3C или WHATWG. - https://htmlacademy.ru/shorts/11
+* Обсуждения о правильном использовании тегов в комментариях. - http://html5doctor.com/computer-says-no-to-html5-document-outline/
+* Видеозапись доклада «Семантика или смерть». - https://events.yandex.ru/lib/talks/1520/
+* Слова, часто используемые в CSS-классах. - https://github.com/yoksel/common-words
+* Как отличить контентное изображение от декоративного. - https://htmlacademy.ru/blog/153-content-or-decor-img
+
+### Статьи о стилях кодирования:
+* Ставить или не ставить закрывающий слеш в одиночных тегах. - http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html
+* Кодгайд: почему, зачем и как? - https://htmlacademy.ru/blog/62-codeguide-why-what-and-how
+
+### Список кодгайдов:
+* Стиль кода Академии HTML. - http://codeguide.academy/html-css.html
+* Code Guide by @mdo. - http://codeguide.co/
+* Google HTML/CSS Style Guide (перевод). - https://google.github.io/styleguide/htmlcssguide.html
+ 
+### Статьи о доступности:
 * Рекомендации по разработке сайтов для людей с нарушениями зрения. - https://weblind.ru/
 * Как фокус помогает. - https://htmlacademy.ru/shorts/10
 * Как прятать. - https://htmlacademy.ru/shorts/12
@@ -73,22 +71,21 @@
 * Спецификация WAI-ARIA 1.1. - https://www.w3.org/TR/wai-aria-1.1/
 * Alt-texts: The Ultimate Guide. - https://axesslab.com/alt-texts/
 
-## Видео с конференций:
+### Видео с конференций:
 * Особенности веб-интерфейса при работе со скринридером - https://www.youtube.com/watch?v=2nSib5UuR_g
 * Жми сюда! - https://www.youtube.com/watch?v=MWJKwn_gKR4
 * WCAG 2.0, или боль доступного веба. - https://www.youtube.com/watch?v=ETw8uUr6Q7g
 * Людоедский интерфейс. - https://www.youtube.com/watch?v=ssJsjGZE2sc
 
-### Normalize.css:
 
-Зачем использовать normalize.css? - https://htmlacademy.ru/blog/64-about-normalize-css
+# CSS
+### Normalize.css:
+* Зачем использовать normalize.css? - https://htmlacademy.ru/blog/64-about-normalize-css
 
 ### HTML Шорты:
-
-Нормальный сброс. - https://www.youtube.com/watch?v=KGYmOlNteas&t=
+* Нормальный сброс. - https://www.youtube.com/watch?v=KGYmOlNteas&t=
 
 ### Спецификация в CSS:
-
 * Что нужно знать, чтобы готовить свои черновики спецификаций. - https://www.youtube.com/watch?v=Z9of2cj28hY
 * А что если мы долетим и там будет всё? - https://vk.com/sergeytovarov?z=video1238505_456239150%2Fvideos1238505%2Fpl_1238505_-2
 
@@ -151,7 +148,7 @@
 * Краш-тест вёрстки. - https://isqua.ru/blog/2016/06/19/crash-test-viorstki/
 
 
-## Основы JavaScript:
+# Основы JavaScript:
 * Что такое DOM? - https://developer.mozilla.org/ru/docs/DOM/DOM_Reference/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5
 
 ### Работа с клавиатурой:
@@ -165,7 +162,7 @@
 * Выставление рейтинга без JavaScript. - https://eugeno.ru/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B0
 * Описание трюка с offsetWidth. - https://css-tricks.com/restart-css-animation/#article-header-id-0
 
-## BEST PRACTICE
+# BEST PRACTICE
 ### Прогрессивное улучшение:
 * Progressive enhancement - https://htmlacademy.ru/blog/7-progressive-enhancement
 * Так ли дорого прогрессивное улучшение? - https://htmlacademy.ru/blog/8-is-it-expensive-to-progressive-enhancement
